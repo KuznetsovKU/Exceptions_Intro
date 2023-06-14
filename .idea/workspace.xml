@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f861ee7d-29d1-48e2-89c6-f894f501c9a6" name="Changes" comment="added Seminar2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework2/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework2/HW2Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework2/HW2Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework2/floatParseException.java" afterDir="false" />
+    <list default="true" id="f861ee7d-29d1-48e2-89c6-f894f501c9a6" name="Changes" comment="added Seminar3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework3/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework3/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework3/Model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework3/MyExceptions/MyArraySizeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework3/MyExceptions/MyIllegalNameInfoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework3/MyExceptions/MyIllegalPhoneNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework3/Service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework3/Service/FileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework3/Service/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework3/View/ExceptionsDescription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework3/View/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar3/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,16 +57,32 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Personal documents/Education/=Projects/Exeptions_Intro"
+    "last_opened_file_path": "D:/Personal documents/Education/=Projects/OOP_Intro",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HW2">
+  <component name="RunManager" selected="Application.HW3">
     <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Homework2.HW2" />
       <module name="Exeptions_Intro.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.Homework2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Homework3.HW3" />
+      <module name="Exeptions_Intro.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Homework3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,6 +118,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW3" />
         <item itemvalue="Application.HW2" />
         <item itemvalue="Application.Sem2" />
         <item itemvalue="Application.Main" />
