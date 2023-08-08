@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f861ee7d-29d1-48e2-89c6-f894f501c9a6" name="Changes" comment="homework 3 is done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW2New/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW2New/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Seminar3/file.txt" afterDir="false" />
+    <list default="true" id="f861ee7d-29d1-48e2-89c6-f894f501c9a6" name="Changes" comment="homework 2_new is done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW3New/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW3New/MainHW3New.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW3New/PasswordVerifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task2">
+  <component name="RunManager" selected="Application.MainHW3New">
     <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Homework2.HW2" />
       <module name="Exeptions_Intro.main" />
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Seminar2.Sem2" />
+    <configuration name="MainHW3New" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HW3New.MainHW3New" />
       <module name="Exeptions_Intro.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Seminar2.*" />
+          <option name="PATTERN" value="org.example.HW3New.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainHW3New" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.HW3" />
         <item itemvalue="Application.HW2" />
-        <item itemvalue="Application.Sem2" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686750548295</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework 2_new is done">
+      <created>1691436641109</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691436641109</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +184,7 @@
     <MESSAGE value="HW1 is done" />
     <MESSAGE value="added Seminar2" />
     <MESSAGE value="homework 3 is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 3 is done" />
+    <MESSAGE value="homework 2_new is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 2_new is done" />
   </component>
 </project>
